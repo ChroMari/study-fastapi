@@ -3,6 +3,7 @@
 
 #### Структура проекта.
 
+```js
 project_name/
 ├── app/
 │   ├── __init__.py
@@ -12,3 +13,4 @@ project_name/
 │   └── routes/
 │       └── __init__.py
 └── requirements.txt
+```
